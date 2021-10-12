@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djull" alt="djull" /></a> </p>
 
-- 👨‍🎓 I’m currently study at [Telkom University](https://telkomuniversity.ac.id/)
+- 👨‍🎓 I'm an Undergraduate student at [Telkom University](https://telkomuniversity.ac.id/), Faculty of Industrial Engineering, majoring in Bachelor Degree in Information Systems
 
 - 🌱 I’m currently learning **Laravel and SQL Database**
 
