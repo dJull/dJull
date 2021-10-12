@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Web Development And Database Project**
 
-- 💬 Ask me about **Laravel, SQL, and another basic programmic**
+- 💬 Ask me about **Laravel, SQL, and another basic programming**
 
-- 📫 How to reach me **joeldamanik2001@gmail.com**
+- 📫 How to reach me [Gmail](joeldamanik2001@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
