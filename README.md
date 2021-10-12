@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Laravel, SQL, and another basic programming**
 
-- 📫 How to reach me [Gmail](joeldamanik2001@gmail.com)
+- 📫 How to reach me **joeldamanik2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
