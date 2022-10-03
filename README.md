@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Joel Rayapoh Damanik</h1>
-<h3 align="center">I am passionate on Web Development and Database Management System (SQL)</h3>
+<h3 align="center">I am passionate on Web Development and Android Mobile Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djull&label=Profile%20views&color=0e75b6&style=flat" alt="djull" /> </p>
 
